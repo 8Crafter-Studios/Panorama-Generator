@@ -1,0 +1,17 @@
+{
+    "recommendations": [
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint",
+        "ms-edgedevtools.vscode-edge-devtools",
+        "EditorConfig.EditorConfig",
+        "Tyriar.luna-paint",
+        "fabiospampinato.vscode-highlight",
+        "MarkosTh09.color-picker",
+        "github.vscode-github-actions",
+        "Codeium.codeium"
+    ],
+    "unwantedRecommendations": [
+        "christian-kohler.npm-intellisense",
+        "DotJoshJohnson.xml"
+    ]
+}
