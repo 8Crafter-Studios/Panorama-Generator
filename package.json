@@ -1,6 +1,6 @@
 {
     "name": "panorama-generator",
-    "version": "1.0.0-beta.1",
+    "version": "1.0.0-beta.2",
     "main": "index.ts",
     "scripts": {
         "start": "node --experimental-transform-types index.ts"
@@ -15,9 +15,11 @@
     "type": "module",
     "description": "",
     "dependencies": {
-        "canvas": "^3.2.0"
+        "canvas": "^3.2.0",
+        "progress": "^2.0.3"
     },
     "devDependencies": {
-        "@types/node": "^24.8.0"
+        "@types/node": "^24.8.0",
+        "@types/progress": "^2.0.7"
     }
 }
