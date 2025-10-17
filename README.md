@@ -6,6 +6,7 @@ To create a panorama, do the following:
 
 1. Open Minecraft.
 2. Set your FOV to `90.00`.
+3. Disable the `FOV Can Be Altered By Gameplay` toggle.
 3. Put Minecraft in fullscreen.
 4. Choose the direction you want it to start out facing (find the y vector of that rotation (should be between `-180` and `180`), this will be referenced as `rotY`).
 5. Take screenshots in the following directions in this order (the order matters because the script uses the creation date of the file to determine the order).
